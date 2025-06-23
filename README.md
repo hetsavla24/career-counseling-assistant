@@ -50,7 +50,7 @@ Refer to:
 
 ![Career Counselling Assistant Dashboard](image.jpg)
 
-> 📌 *Replace `career_counselling_dashboard.png` with your actual image file placed in the repository.*
+
 
 ---
 
