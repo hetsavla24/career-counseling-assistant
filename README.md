@@ -48,7 +48,7 @@ Refer to:
 
 ## 📸 Screenshot
 
-![Career Counselling Assistant Dashboard](./career_counselling_dashboard.png)
+![Career Counselling Assistant Dashboard](.png)
 
 > 📌 *Replace `career_counselling_dashboard.png` with your actual image file placed in the repository.*
 
